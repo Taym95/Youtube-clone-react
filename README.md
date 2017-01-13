@@ -1,11 +1,11 @@
-# Youtube clone reactjs
-	trying to clone youtube interface with react
+# like-youtube-app
+	trying to clone youtube interface with reactjs
 	
 ###Getting Started###
 
 ```
-	> git clone https://github.com/Taym95/Youtube-clone-react.git
-	> cd Youtube-clone-react
+	> git clone https://github.com/Taym95/like-youtube-app.git
+	> cd like-youtube-app
 	> npm install
 	> npm start
 ```
